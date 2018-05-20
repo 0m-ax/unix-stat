@@ -1,0 +1,15 @@
+{
+  "name": "unix-stat",
+  "version": "1.0.0",
+  "description": "A collection of constants from stat.h",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Max Campbell",
+    "email": "npm@maxc.in",
+    "url": "https://maxc.in/"
+  },
+  "license": "ISC"
+}
